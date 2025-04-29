@@ -1,0 +1,26 @@
+title: Music Theory Companion
+description: Helping you understand music theory easily and apply them to make your compositions sound extraordinary
+
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
+
+include:
+#  - README.md
+
+# Pages for which links are shown at the menu
+#pages_in_toolbar:
+#- title: Home
+#  url: .
+
+# Website theme
+theme: jekyll-theme-cayman
+
+safe: true
+
+# Disable "View on GitHub" button
+github:
+  is_project_page: false
