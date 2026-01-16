@@ -6,25 +6,21 @@ This page helps manage your songs & set-Lists...
 <details>
 <summary><strong>🎵 Set-list Mode</strong></summary>
 
-<div>
-
-- Create performance-ready set-lists
-- Auto tempo changes per song
-- Hands-free control
-
-</div>
+<ul>
+  <li>Create performance-ready set-lists</li>
+  <li>Auto tempo changes per song</li>
+  <li>Hands-free control</li>
+</ul>
 </details>
 
 <details>
 <summary><strong>⏱ Advanced Timing</strong></summary>
 
-<div>
-
-1. Polyrhythms
-1. Subdivisions
-1. Visual beat indicators
-
-</div>
+<ol>
+  <li>Polyrhythms</li>
+  <li>Subdivisions</li>
+  <li>Visual beat indicators</li>
+</ol>
 </details>
 
 ## 1 General
