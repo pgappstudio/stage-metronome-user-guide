@@ -1,6 +1,26 @@
 # Song & Set-List Management
 This page helps manage your songs & set-Lists...
 
+## Features
+
+<details>
+<summary><strong>🎵 Set-list Mode</strong></summary>
+
+- Create performance-ready set-lists
+- Auto tempo changes per song
+- Hands-free control
+
+</details>
+
+<details>
+<summary><strong>⏱ Advanced Timing</strong></summary>
+
+- Polyrhythms
+- Subdivisions
+- Visual beat indicators
+
+</details>
+
 ## 1 General
 <details>
 <summary>
